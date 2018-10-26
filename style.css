@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+h3 {
+    text-align: center;
+    margin: auto;
+    padding-top: 60px;
+}
+
+h2 {
+    color: magenta;
+    font-size: 150px;
+    font-family:'Press Start 2P', cursive;
+    font-style: bold;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px;
+}
+
+p {
+   text-align: center;
+}
+
+a {
+   border-radius: 5px;
+   box-shadow: 0px 1px 3px #666666;
+   font-family: 'Press Start 2P', cursive;
+   color: #ffffff;
+   font-size: 31px;
+   background: magenta;
+   padding: 10px 10px 10px 20px;
+   text-decoration: none;
+   margin: 10px;
+
+}
+
+a:hover {
+          background: orange;
+          text-decoration: none;
+}
+
+footer {
+        text-align: center;
+        font-family: 'Press Start 2P', cursive;
+        height: 3em;
+        margin-top: 2em;
+}
